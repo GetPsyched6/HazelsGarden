@@ -20,12 +20,7 @@ span {
     align-items: center;
 }
 
-  h1 {
-    display: inline;
-  }
-
   img {
-    display: inline;
     width: 96px;
     margin: 1rem;
   }
