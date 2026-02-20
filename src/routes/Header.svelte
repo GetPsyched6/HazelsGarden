@@ -2,6 +2,7 @@
     <h1>
         Hazel's Garden LLC
     </h1>
+    <hr>
 </header>
 
 <style>
