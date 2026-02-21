@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Hazel's Garden LLC</title>
+	<title>Hazel's Garden</title>
 </svelte:head>
 
 <Header/>
